@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pravin-nawale
+- 👋 Hi, I’m Pravin Nawale
 - 👀 I’m interested in Learning And Developement in Java Language
 - 🌱 I’m currently learning Java Fullstack Developement
 - 💞️ I’m currently a Student Pursuing my Masters Degree (MCA).
